@@ -1,0 +1,64 @@
+
+/* .row {
+  width: 70%;
+  margin: 0 auto;
+} */
+.fas {
+  font-size: 15px;
+
+}
+nav ul a {
+  color: black;
+}
+.experience{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.progress-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.title-card {
+  font-weight: bold;
+  font-size: 20px;
+}
+.item-skill {
+  width: 100%;
+}
+
+
+/* Home */
+.info {
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  padding-bottom: 20px;
+}
+.info img {
+  width: 100%;
+  height: 350px;
+}
+
+.info .name {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.info .position {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bolder;
+}
+
+.progress {
+  animation: progress-grow .35s cubic-bezier(.75,0,.45,1.1) .6s forwards;
+}
+
+/* .card {
+  margin-top: 20px;
+  box-shadow: none !important
+} */
